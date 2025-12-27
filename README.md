@@ -116,13 +116,10 @@ v1 / v2 / v3 signing
 
 🆕 What’s New
 ---
-🎨 Improved UI design
+Check out our latest updates, features, and full list of items in the catalog!
 
-📥 Multi-ABI Frida Gadget injection support
+👉 **[View Full Catalog](catalog.md)**
 
-📂 File picker added (no manual path input)
-
-💎 Overall performance and stability improvements
 
 
 
