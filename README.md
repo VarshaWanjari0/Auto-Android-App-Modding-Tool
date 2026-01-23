@@ -2,7 +2,6 @@
 
 NO ROOT NEEDED ✅
 ---
-
 UAMT is a powerful **Termux-based Android modding toolkit** that allows you to inject **Frida Gadget** and **custom native libraries**, patch APKs, rebuild, align, and sign them directly on your Android device.
 
 It is designed to be **fast, stable, and easy to use**, featuring a **full-screen interactive TUI**, smart auto-detection, and **automatic dependency installation**.
@@ -16,6 +15,10 @@ Install via pip(first install python):
 Then run:
 
 ```uamt``` to run the tool
+
+---
+Updates are paused until March 2026
+---
 
 
 ---
@@ -74,7 +77,6 @@ and more
 zipalign
 
 v1 / v2 / v3 signing
-
 
 
 
